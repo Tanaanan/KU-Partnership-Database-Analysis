@@ -9,14 +9,12 @@
   &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
   
 #### Database detail. 
-  &emsp; -> No. <br />
-  &emsp; -> Name of Partners. <br />
-  &emsp; -> Agreement Name. <br />
-  &emsp; -> Agreement Level. <br />
-  &emsp; -> Subordinating Unit of KU. <br />
-  &emsp; -> Subordinating Unit of Partner. <br />
-  &emsp; -> Effective Date. <br />
-  &emsp; -> Effective Date. <br />
-  &emsp; -> Duration. <br />
-  &emsp; -> Auto - Renewal. <br />
+  &emsp; -> Name of Partners. (Partnership name) <br />
+  &emsp; -> Agreement Name. (Name of MOU) <br />
+  &emsp; -> Agreement Level. (University / Facility) <br />
+  &emsp; -> Subordinating Unit of KU. (Facility unit name) <br />
+  &emsp; -> Effective Date. (MOU agreement start date) <br />
+  &emsp; -> Effective Date. (MOU agreement expired date)<br />
+  &emsp; -> Duration. (Duration of MOU) <br />
+  &emsp; -> Auto - Renewal. (Yes / No)<br />
   
