@@ -3,7 +3,7 @@
 ### KU Partnership-Database website = https://iad.intaff.ku.ac.th/portal/mou_f02.php
 
 #### Feature 
-  -> Get all parntnership name. <br />
-  -> Get all data of partnership detail. <br />
-  -> Get partnership name url and .CSV link <br />
-  -> Search partnership name for detail on (display to .CSV) . <br />
+  &emsp; -> Get all parntnership name. <br />
+  &emsp; -> Get all data of partnership detail. <br />
+  &emsp; -> Get partnership name url and .CSV link <br />
+  &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
