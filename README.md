@@ -7,6 +7,19 @@
   &emsp; -> Get all data of partnership detail. <br />
   &emsp; -> Get partnership name url and .CSV link <br />
   &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
+
+#### Class describe. (ku_scholar)
+  &emsp; ku_scholar(url) <br />
+  &emsp; all_link() <br />
+  &emsp; all_name(name) <br />
+  &emsp; search_name(name) <br />
+  &emsp; search_detail(name). <br />
+  &emsp; all_name(name) <br />
+  &emsp; list_all() <br />
+  &emsp; get_url_link(university_name). <br />
+  &emsp; get_csv_link(university_name) <br />
+  &emsp; get_detail(university_name) <br />
+  &emsp; count(). <br />
   
 #### Database detail. 
   &emsp; -> Name of Partners. (Partnership name) <br />
