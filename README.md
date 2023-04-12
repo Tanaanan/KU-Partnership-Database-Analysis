@@ -13,13 +13,13 @@
   &emsp; all_link() <br />
   &emsp; all_name(name) <br />
   &emsp; search_name(name) <br />
-  &emsp; search_detail(name). <br />
+  &emsp; search_detail(name) <br />
   &emsp; all_name(name) <br />
   &emsp; list_all() <br />
   &emsp; get_url_link(university_name). <br />
   &emsp; get_csv_link(university_name) <br />
   &emsp; get_detail(university_name) <br />
-  &emsp; count(). <br />
+  &emsp; count() <br />
   
 #### Database detail. 
   &emsp; -> Name of Partners. (Partnership name) <br />
