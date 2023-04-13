@@ -2,13 +2,13 @@
 ### Access and summarize KU Partnership Database a lot more easier than browsing website by using Python.
 ### KU Partnership-Database website = https://iad.intaff.ku.ac.th/portal/mou_f02.php
 
-#### Class feature 
+### Class feature 
   &emsp; -> Get all parntnership name. <br />
   &emsp; -> Get all data of partnership detail. <br />
   &emsp; -> Get partnership name url and .CSV link <br />
   &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
 
-#### Class describe. (ku_scholar)
+### Class describe. (ku_scholar)
   #### ku_scholar(url)  <br />
   &emsp;&emsp; -> 1 parameter (url)  <br />
   &emsp;&emsp; -> Define class with url parameter  <br />
@@ -49,7 +49,7 @@
   &emsp;&emsp; -> Show amount of partnership name that contain on database  [ int ]  <br />
   <br />
   
-#### Database detail. 
+### Database detail. 
   &emsp; -> Name of Partners. (Partnership name) <br />
   &emsp; -> Agreement Name. (Name of MOU) <br />
   &emsp; -> Agreement Level. (University / Facility) <br />
