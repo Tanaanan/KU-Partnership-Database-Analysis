@@ -12,22 +12,42 @@
   #### ku_scholar(url)  <br />
   &emsp;&emsp; -> 1 parameter (url)  <br />
   &emsp;&emsp; -> Define class with url parameter  <br />
+  <br />
   &emsp; all_link() <br />
   &emsp;&emsp; -> Show all partnership url link [ list ]  <br />
+  <br />
   &emsp; all_name(name) <br />
   &emsp;&emsp; -> Show all partnership name  [ list ]  <br />
+  <br />
   &emsp; search_name(name) <br />
   &emsp;&emsp; -> 1 parameter (name)  <br />
   &emsp;&emsp; -> Search and display partnership name that contain character in user input.  [ list ]  <br />
+  <br />
   &emsp; search_detail(name) <br />
   &emsp;&emsp; -> 1 parameter (name)  <br />
-  &emsp;&emsp; -> Search and display partnership name and detail that contain character in user input.  [ pandas dataframe ]  <br />
+  &emsp;&emsp; -> Search and display partnership name and detail that parameter contain in database.  [ pandas dataframe ]  <br />
+  <br />
   &emsp; list_all() <br />
   &emsp;&emsp; -> Show all partnership name and url link [ pandas dataframe ]  <br />
+  <br />
   &emsp; get_url_link(university_name). <br />
+  &emsp;&emsp; -> 1 parameter (university_name)   <br />
+  &emsp;&emsp; -> Get partnership url link  [ str ]  <br />
+  &emsp;&emsp; *** Parameter must be same that contain on all_name(). ***
+  <br />
   &emsp; get_csv_link(university_name) <br />
+  &emsp;&emsp; -> 1 parameter (university_name)   <br />
+  &emsp;&emsp; -> Get partnership csv link  [ str ]  <br />
+  &emsp;&emsp; *** Parameter must be same that contain on all_name(). ***
+  <br />
   &emsp; get_detail(university_name) <br />
+  &emsp;&emsp; -> 1 parameter (university_name)   <br />
+  &emsp;&emsp; -> Search and display partnership name and detail.  [ pandas dataframe ]  <br />
+  &emsp;&emsp; *** Parameter must be same that contain on database. ***
+  <br />
   &emsp; count() <br />
+  &emsp;&emsp; -> Show amount of partnership name that contain on database  [ int ]  <br />
+  <br />
   
 #### Database detail. 
   &emsp; -> Name of Partners. (Partnership name) <br />
