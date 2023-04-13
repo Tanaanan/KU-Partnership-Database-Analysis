@@ -9,7 +9,7 @@
   &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
 
 #### Class describe. (ku_scholar)
-  &emsp; #### ku_scholar(url)  <br />
+  #### ku_scholar(url)  <br />
   &emsp;&emsp; -> 1 parameter (url)  <br />
   &emsp;&emsp; -> Define class with url parameter  <br />
   &emsp; all_link() <br />
