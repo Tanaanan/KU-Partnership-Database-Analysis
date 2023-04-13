@@ -2,6 +2,9 @@
 ### Access and summarize KU Partnership Database a lot more easier than browsing website by using Python.
 ### KU Partnership-Database website = https://iad.intaff.ku.ac.th/portal/mou_f02.php
 
+![image](https://user-images.githubusercontent.com/64496956/231742438-1f514a4c-29fb-48f2-9388-b950207b1a72.png)
+
+
 ### Class feature 
   &emsp; -> Get all parntnership name. <br />
   &emsp; -> Get all data of partnership detail. <br />
