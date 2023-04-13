@@ -2,6 +2,16 @@
 ### Access and summarize KU Partnership Database a lot more easier than browsing website by using Python.
 ### KU Partnership-Database website = https://iad.intaff.ku.ac.th/portal/mou_f02.php
 
+### Database detail. 
+  &emsp; -> Name of Partners. (Partnership name) <br />
+  &emsp; -> Agreement Name. (Name of MOU) <br />
+  &emsp; -> Agreement Level. (University / Facility) <br />
+  &emsp; -> Subordinating Unit of KU. (Facility unit name) <br />
+  &emsp; -> Effective Date. (MOU agreement start date) <br />
+  &emsp; -> Effective Date. (MOU agreement expired date)<br />
+  &emsp; -> Duration. (Duration of MOU) <br />
+  &emsp; -> Auto - Renewal. (Yes / No)<br />
+
 ![image](https://user-images.githubusercontent.com/64496956/231742438-1f514a4c-29fb-48f2-9388-b950207b1a72.png)
 
 
@@ -52,13 +62,5 @@
   &emsp;&emsp; -> Show amount of partnership name that contain on database  [ int ]  <br />
   <br />
   
-### Database detail. 
-  &emsp; -> Name of Partners. (Partnership name) <br />
-  &emsp; -> Agreement Name. (Name of MOU) <br />
-  &emsp; -> Agreement Level. (University / Facility) <br />
-  &emsp; -> Subordinating Unit of KU. (Facility unit name) <br />
-  &emsp; -> Effective Date. (MOU agreement start date) <br />
-  &emsp; -> Effective Date. (MOU agreement expired date)<br />
-  &emsp; -> Duration. (Duration of MOU) <br />
-  &emsp; -> Auto - Renewal. (Yes / No)<br />
+
   
