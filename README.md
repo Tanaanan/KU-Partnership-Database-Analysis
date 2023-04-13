@@ -9,14 +9,21 @@
   &emsp; -> Search partnership name for detail on (display to .CSV) . <br />
 
 #### Class describe. (ku_scholar)
-  &emsp; ##### ku_scholar(url)  <br />
+  &emsp; #### ku_scholar(url)  <br />
+  &emsp;&emsp; -> 1 parameter (url)  <br />
   &emsp;&emsp; -> Define class with url parameter  <br />
   &emsp; all_link() <br />
+  &emsp;&emsp; -> Show all partnership url link [ list ]  <br />
   &emsp; all_name(name) <br />
+  &emsp;&emsp; -> Show all partnership name  [ list ]  <br />
   &emsp; search_name(name) <br />
+  &emsp;&emsp; -> 1 parameter (name)  <br />
+  &emsp;&emsp; -> Search and display partnership name that contain character in user input.  [ list ]  <br />
   &emsp; search_detail(name) <br />
-  &emsp; all_name(name) <br />
+  &emsp;&emsp; -> 1 parameter (name)  <br />
+  &emsp;&emsp; -> Search and display partnership name and detail that contain character in user input.  [ pandas dataframe ]  <br />
   &emsp; list_all() <br />
+  &emsp;&emsp; -> Show all partnership name and url link [ pandas dataframe ]  <br />
   &emsp; get_url_link(university_name). <br />
   &emsp; get_csv_link(university_name) <br />
   &emsp; get_detail(university_name) <br />
